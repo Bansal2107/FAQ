@@ -1,0 +1,93 @@
+oracle propritery joins
+group functions clauses
+
+java
+overriding function and variable, wrto exception handling,static function,private,public,protected(check for com,runtime,output)
+static varibale block function,code snippets
+use of super and this (why and when)wrt function variable
+Serialization (how and why when) Deserializatrion,,,while sertialization which io classes(op stream ip stream)
+functions of thread calss and runnable interface
+
+Generic syntax
+collection set list map(diff)
+array vs linked list vs vector
+hash table vs hash map
+hash set vs tree set
+hash map vs tree map (charecteristics)
+which interface implementing (comparable/compare to)
+
+feauture of jdk
+static import
+down casting and up casting
+
+
+jdbc 
+statement prepared callable (diff) (how to create)
+functions in statement
+connection
+return type of execute update and true and false value
+
+jsp
+inclue directive vs include action
+jsp life cycle
+servlet life cycle
+syntax of directive scripting element
+attribute of page directive(ignore auto flush session(t) isthreadset(T) description language..........default value )
+9 implicit objects in jsp what is type(session(HttpS) request response...)
+attributes of use bean action (id class type scope)..default value
+
+jquery
+toggle class
+remove class
+
+
+ang js
+predefined directives (nothing but tag)
+event related directives
+user defined directive
+how to create tag
+.module .controller
+user defined filters
+pre defined filters  what charecters used
+$scope vs $rootscope
+pre defined services
+
+
+web service
+soap wisdel uddi
+tags of wisdel..
+soap annotation jax-rs jax-ws (annotations)
+
+Spring 
+web.xml
+jpa-context.xml
+servlet-config
+all tags
+all jpa annotations
+
+mapping
+inheritence mapping (table per class)
+how to get entity manager,factory
+tags in persistence.xml
+
+do get
+do post
+all annotations in servlet
+
+cookies and session expiry time
+functions of session (default time invalidation)
+
+
+bean factory vs application context
+
+xml tag complex type sequence
+
+software enginner
+models
+
+
+
+
+
+
+
